@@ -50,6 +50,12 @@ curl http://api.iplocate.io/ip -k --proxy http://203.19.38.114:1080
 curl https://api.iplocate.io/ip -k --proxy https://3.29.67.17:4480
 ```
 
+### Test proxies in batch
+You can use the following script to test proxies in batch by country codes:
+
+[https://github.com/mohammadhasanzadeh/iplocate-proxy-checker](https://github.com/mohammadhasanzadeh/iplocate-proxy-checker)
+
+
 ## How to detect proxies
 
 Need to **detect proxies, VPNs, or hosting providers?**
